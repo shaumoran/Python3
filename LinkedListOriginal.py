@@ -1,3 +1,5 @@
+#This is a class Linked List and contains many functions to manipulate the Linked List.
+
 class Node:
     def __init__(self, item, next):
         self.item = item
