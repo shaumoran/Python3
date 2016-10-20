@@ -55,18 +55,3 @@ class LinkedList:
     def rotate(self):
         self.append(self.head.item)
         self.remove()
-
-
-
-
-
-
-
-
-
-
-    def rotate(self):
-
-        
-
-
