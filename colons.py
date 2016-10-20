@@ -1,3 +1,5 @@
+#Splits each letter in a string with a colon
+
 import sys 
 word = sys.argv[1:]
 bs = " "
