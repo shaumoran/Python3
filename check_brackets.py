@@ -1,3 +1,5 @@
+#This checks for matching brackets in a string.
+
 def check_brackets(line):
 	is_bracket = ["(", ")", "{", "}", "[", "]"]
 	is_opened = ["(", "[", "{"]
@@ -26,75 +28,3 @@ def check_brackets(line):
 
 	else:
 		return True
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-		
-
-
-
