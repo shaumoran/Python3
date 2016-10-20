@@ -1,5 +1,6 @@
-import sys 
+#Counts the number of even numbers in a list
 
+import sys 
 def even_count(lst):
 	linky = LinkedList(lst)
 	ptr = self.head
