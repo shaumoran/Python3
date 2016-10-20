@@ -1,3 +1,5 @@
+#This prints a tuple of even and odd numbers
+
 def get_evenodd_list():
 	a = int(input())
 	odds = []
