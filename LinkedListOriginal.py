@@ -4,8 +4,7 @@ class Node:
     def __init__(self, item, next):
         self.item = item
         self.next = next
-
-# Note, these functions are called methods "A method is a function that is stored as a class attribute"
+        
 class LinkedList:
     def __init__(self):
         self.head = None
@@ -18,7 +17,7 @@ class LinkedList:
             return None
         else:
             item = self.head.item
-            self.head = self.head.next    # remove the item by moving the head pointer
+            self.head = self.head.next   
             return item
 
     def is_empty(self):
