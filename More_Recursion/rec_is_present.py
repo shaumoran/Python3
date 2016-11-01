@@ -1,4 +1,6 @@
-#
+#Recursively finds whether an item is in the linked list.
+
+
 #  Just a class to store the item and the next pointer
 #
 class Node:
