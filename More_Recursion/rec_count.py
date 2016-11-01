@@ -1,4 +1,6 @@
-#
+#Recursively counts elements in a linked list.
+
+
 #  Just a class to store the item and the next pointer
 #
 class Node:
